@@ -1,2 +1,2 @@
-(0x00-pascal_triangle)
-changes from the master
+0x00-pascal_triangle
+Practice pull request and merge
